@@ -13,6 +13,8 @@ SpringTodoAppApplication 실행<br>
 src/main/java/com/example/spring_todo_app/<br>
 ├── todocontroller/<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── TodoController.java<br>
+├── config/<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── WebConfig/<br>
 ├── todoservice/<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── TodoService/<br>
 ├── todorepository/<br>
