@@ -4,7 +4,7 @@
 
 # 프로젝트 버전
 java 버전: 17.0.18<br>
-Spring Web, Spring Data JPA, H2 Database
+의존성(Dependencies): Spring Web, Spring Data JPA, H2 Database
 
 # 시작 가이드
 SpringTodoAppApplication 실행<br>
